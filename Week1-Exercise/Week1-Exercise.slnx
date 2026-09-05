@@ -5,5 +5,6 @@
   </Configurations>
   <Project Path="Calculate_BMI/Calculate_BMI.vcxproj" />
   <Project Path="Change_Celicus_to_F/Change_Celicus_to_F.vcxproj" />
+  <Project Path="quadratic_equation/quadratic_equation.vcxproj" />
   <Project Path="Week1-Exercise/Week1-Exercise.vcxproj" />
 </Solution>
