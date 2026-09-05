@@ -3,6 +3,7 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
+  <Project Path="Comparator/Comparator.vcxproj" Id="ada78776-ae43-4061-a476-661fbcf01078" />
   <Project Path="Pointer1/Pointer1.vcxproj" Id="584b4951-e818-4e32-94f5-d4b902a6393a" />
   <Project Path="Pointer2/Pointer2.vcxproj" Id="3e5adc7c-e463-4d05-9f22-158396812779" />
 </Solution>
