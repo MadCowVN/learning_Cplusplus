@@ -3,5 +3,6 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
+  <Project Path="Change_Celicus_to_F/Change_Celicus_to_F.vcxproj" />
   <Project Path="Week1-Exercise/Week1-Exercise.vcxproj" />
 </Solution>
